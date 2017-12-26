@@ -6,4 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 	I belive files from the working directory that are in the staging area can still be edited, but would update the repository only when committed.
 
-	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can use a combination of git status, git diff, and git diff --staged to find how many logical changes were made.
+
