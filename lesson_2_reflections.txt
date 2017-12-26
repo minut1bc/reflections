@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	You initialize the repository in order to use git, to keep track of older versions of the files in the repository.
+
