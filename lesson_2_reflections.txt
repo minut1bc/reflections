@@ -18,3 +18,6 @@ How do the diagrams help you visualize the branch structure?
 
 	It eases the process of finding out unreachable commits, and later on, merging branches.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The commits are kept on a single branch, sorted by timestamp. We can check which commit came from which branch by using the diagram.
