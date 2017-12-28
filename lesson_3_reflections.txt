@@ -13,3 +13,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	You can revert unwanted changes in the GitHub repo.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	It would be easier to collaborate when only few versions of few files are to be kept, but way harder otherwise.
